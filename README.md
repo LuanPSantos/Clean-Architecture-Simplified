@@ -12,7 +12,7 @@ Atualmente, para a maioria dos projetos comerciais, é inviável construir um so
 
 #### Arquitetura Limpa e Framework
 
-Utilizar Spring Framework, por exemplo, em aplicações Java/Kotlin é algo muito comum para o desenvolvimento de aplicações comerciais. Ferramentas como Spring Boot, Spring MVC e Spring Data salvam a vida de muitos desenvolvedores todos os dias.
+É muito comum, por exemplo, utilizar Spring Framework com Java/Kotlin para o desenvolvimento de aplicações comerciais. Ferramentas como Spring Boot, Spring MVC e Spring Data salvam a vida de muitos desenvolvedores todos os dias.
 
 **Como ter uma Arquitetura Limpa trabalhando junto como o Framework?**
 
