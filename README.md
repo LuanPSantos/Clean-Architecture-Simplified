@@ -22,7 +22,8 @@ O diagrama a seguir mostra uma forma de conciliar o isolamento das regras de neg
 
 Nota-se que não existem setas que saem de uma Entity para apontar para qualquer outro componente e que as setas que saem do Use Case só apontam para Entities. Isso garante que o coração da aplicação não dependa da infraestrutura que o sustenta.
 
-Para organização de pacotes, tem-se a seguinte proposta. Nota-se como cada camada da Arquitetura Limpa estão separadas em três pacotes base: Entity, Use Case e Infrastructure (frameworks e adapters). E como cada conjunto de componentes (services, gateway, model) estão agrupados por domínio (xxxxx).
+**Pacotes**
+Para a organização de pacotes, tem-se a seguinte proposta. Nota-se como cada camada da Arquitetura Limpa estão separadas em três pacotes base: Entity, Use Case e Infrastructure (frameworks e adapters). E como cada conjunto de componentes (services, gateway, model) estão agrupados por domínio (xxxxx).
 
 ![Diagrama Pacotes](imgs/package.png)
 
