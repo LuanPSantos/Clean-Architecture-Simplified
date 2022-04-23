@@ -10,7 +10,7 @@ Alcançar o Estado da Arte da Arquitetura Limpa pode ser trabalhoso, algo caro p
 
 Atualmente, para a maioria dos projetos comerciais, é inviável construir um software sem utilizar algum framework. Eles resolvem muitos problemas e aceleram o ciclo de desenvolvimento. Ao mesmo tempo, eles podem ser muito invasivos e acabar sujando seu código, criando um acoplamento muito forte e tornando seu código refém dele.
 
-#### Arquitetura Limpa e Framework
+### Arquitetura Limpa e Framework
 
 É muito comum, por exemplo, utilizar Spring Framework com Java/Kotlin para o desenvolvimento de aplicações comerciais. Ferramentas como Spring Boot, Spring MVC e Spring Data salvam a vida de muitos desenvolvedores todos os dias.
 
