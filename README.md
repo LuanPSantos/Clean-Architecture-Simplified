@@ -1,10 +1,10 @@
 # Arquitetura Limpa para Aplicações com Spring
 
-A Arquitetura Limpa, criada por Robert Martin, é baseada na Arquitetura Hexagonal, na arquitetura DCI (Data, Context and Interaction), BCE (Entity, Control and Boundary) e tem sua base fundada nos princípios SOLID e na Regra da Dependência. Sendo complementada pelos princípios de componentes.
+[Arquitetura Limpa em detalhes](https://github.com/LuanPSantos/Clean-Architecture)
 
 ![Diagrama Arquitetura Limpa](imgs/clean-arch.png)
 
-Em resumo, ela propõe mecanismos e ferramentas para que desenvolvedores construam softwares que sejam manutenível e expansíveis. Essa característica é alcançada ao tornar códigos de regra de negócio mais abstratos, com responsabilidades bem definidas e independentes de códigos de infraestrutura.
+Em resumo, a Arquitetura Limpa propõe mecanismos e ferramentas para que desenvolvedores construam softwares que sejam manutenível e expansíveis. Essa característica é alcançada ao tornar códigos de regra de negócio mais abstratos, com responsabilidades bem definidas e independentes de códigos de infraestrutura.
 
 Alcançar o Estado da Arte da Arquitetura Limpa pode ser trabalhoso, algo caro para se construir e manter, e em tem casos isso não vale a pena. Por isso, há um capítulo onde o autor fala sobre Limites Parciais, que explica que alguns limites arquiteturais podem ser quebrados dependendo da análise de quem está arquitetando o software. Ele pode decidir manter ou não algum limite arquitetural.
 
