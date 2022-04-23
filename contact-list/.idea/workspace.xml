@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e50dc220-2576-4cba-ac2b-8a6163cf12c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/gateway/ContactGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/model/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/DeleteContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/GetContactByIdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/SearchContactsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/UpsertContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/gateway/ContactDatabaseGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/DeleteContactUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/GetContactByIdUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/SearchContactsUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/UpsertContactUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/controller/ContactController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/exception/ContactNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/exception/ContactNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/service/ContactService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/codeplays/trainee/contacts/ContactListApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeplays/trainee/contacts/ContactSchemaListApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28ArPxpoXWnrnc3n3diVHITnElr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ContactListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeplays.trainee.contacts.ContactListApplication" />
+      <module name="contact-list.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeplays.trainee.contacts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContactListApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e50dc220-2576-4cba-ac2b-8a6163cf12c2" name="Changes" comment="" />
+      <created>1650670216079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650670216079</updated>
+    </task>
+    <servers />
+  </component>
+</project>

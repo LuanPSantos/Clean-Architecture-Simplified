@@ -1,4 +1,4 @@
-package codeplays.trainee.contacts.exception;
+package codeplays.trainee.contacts.entity.contact.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
