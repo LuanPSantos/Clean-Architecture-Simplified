@@ -14,7 +14,9 @@ public class CreateContactUseCase {
     }
 
     public void execute(Input input) {
-        contactGateway.create(new Contact(input.name(), input.phone()));
+        var contact = new Contact(input.name(), input.phone());
+
+        contactGateway.create(contact);
     }
 
     public record Input(String name, String phone) { }

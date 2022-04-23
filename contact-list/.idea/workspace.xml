@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e50dc220-2576-4cba-ac2b-8a6163cf12c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/gateway/ContactGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/model/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/DeleteContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/GetContactByIdController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/SearchContactsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/UpsertContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/gateway/ContactDatabaseGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/DeleteContactUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/GetContactByIdUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/SearchContactsUseCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/UpsertContactUseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/controller/ContactController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/exception/ContactNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/entity/contact/exception/ContactNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/repository/ContactRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/service/ContactService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/codeplays/trainee/contacts/ContactListApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/codeplays/trainee/contacts/ContactSchemaListApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

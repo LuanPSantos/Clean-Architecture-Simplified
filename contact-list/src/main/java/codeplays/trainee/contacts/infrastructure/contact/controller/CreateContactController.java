@@ -20,7 +20,7 @@ public class CreateContactController {
     @PostMapping("/contacts")
     @ResponseStatus(HttpStatus.CREATED)
     public void createContact(@RequestBody Request request) {
-        createContactUseCase.execute(new Input(request.name, request.phone));
+        createContactUseCase.execute(new Input(request.name(), request.phone()));
     }
 
     public record Request(
