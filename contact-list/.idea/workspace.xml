@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e50dc220-2576-4cba-ac2b-8a6163cf12c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/config/db/schema/ContactSchema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/infrastructure/contact/controller/CreateContactController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codeplays/trainee/contacts/usecase/contact/CreateContactUseCase.java" afterDir="false" />
-    </list>
+    <list default="true" id="e50dc220-2576-4cba-ac2b-8a6163cf12c2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
