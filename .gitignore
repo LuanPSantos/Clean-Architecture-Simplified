@@ -25,6 +25,7 @@ contact-list.idea
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
 
 ### NetBeans ###
 /nbproject/private/
