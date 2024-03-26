@@ -1,7 +1,7 @@
 # Arquitetura Limpa Simplificada
 
-#### Esse post é uma continuação direta desse outro post
-[Do SOLID à Arquitetura Limpa](https://www.tabnews.com.br/TraineeCodeplays/do-solid-a-arquitetura-limpa)
+#### Esse post é uma continuação direta desse outro repo
+[Arquitetura Limpa](https://github.com/LuanPSantos/Clean-Architecture)
 
 Fala pessoal! Beleza?
 
