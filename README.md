@@ -3,9 +3,9 @@
 #### Esse post é uma continuação direta desse outro repo
 [Arquitetura Limpa](https://github.com/LuanPSantos/Clean-Architecture)
 
-[Implementação em GO - Desafio Stone](https://github.com/lucassantoss1701/bank-api)
-[Implementação em GO](https://github.com/lucassantoss1701/clean-arch-golang)
-[Implementação em Python](https://github.com/LuanPSantos/contact-list-clean-arch)
+[Implementação em GO - Desafio Stone](https://github.com/lucassantoss1701/bank-api)  
+[Implementação em GO](https://github.com/lucassantoss1701/clean-arch-golang)  
+[Implementação em Python](https://github.com/LuanPSantos/contact-list-clean-arch)  
 
 Fala pessoal! Beleza?
 
